@@ -21,3 +21,23 @@ A Smart Home Energy Dashboard that allows users to visualize their home's energy
 
    ```bash
    git clone https://github.com/AkashPatne/Smart-home-energy.git
+   
+
+   Navigate to the project folder:
+
+bash
+Copy
+Edit
+cd smart-home-energy
+Open UI.html in a browser to view the dashboard.
+
+How to Use
+Open the dashboard in a browser.
+View daily energy consumption in the line chart.
+Set an energy budget (kWh) using the input field.
+If energy usage exceeds the budget, a warning alert will appear.
+Future Enhancements
+ Add real-time energy consumption updates
+ Integrate with IoT devices for live monitoring
+ Add a dark/light mode toggle
+
